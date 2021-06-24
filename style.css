@@ -1,0 +1,63 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+    background-image: url('images/R7.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    height: 900px;
+    width: 900px;
+    font-family: Tahoma;
+    place-items:center;
+    display: grid;
+  }
+ 
+  #countener
+
+  {
+      
+    text-align: center;
+    width: 500px;
+    height: 600px;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left:650px;
+
+  }
+   button
+   {
+    margin: 10px;
+    background: #FDFAF6;
+    width: 100px;
+    height: 30px;
+    color: #353637;
+   }
+
+   .l , .s, .r
+   {
+       display:inline;
+       margin: 20px;
+   }
+  
+
+   .up
+
+   {
+       margin-bottom: 30px;
+   }
+
+
+   .do
+   {
+       margin-top: 30px;
+   }
+   
+
+   
+
+   
+
